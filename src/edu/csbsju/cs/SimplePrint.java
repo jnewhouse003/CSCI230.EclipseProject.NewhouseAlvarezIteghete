@@ -13,8 +13,8 @@ public class SimplePrint {
 	 * 
 	 */
 	
-	private String pName;
-	private int pAge;
+	private String newName;
+	private int newAge;
 	public SimplePrint() {
 		// TODO Auto-generated constructor stub
 	}
